@@ -1,11 +1,10 @@
-<div>
-    <ul>
-        <li><a href="index.php"> Home </a>
-        <li><a href="contato.php"> Contato </a>
-            <li><a href="Empresa.php"> Contato </a>
-             
-
-        </li>
-
+ <ul class="nav navbar-nav">
+        
+        <li><a href="index.php">Home</a></li>
+        <li><a href="empresa.php">Empresa</a></li>
+        <li><a href="Produtos.php">Produtos</a></li>
+        <li><a href="servicos.php">Serviços</a></li>
+        <li><a href="contato.php">Contato</a></li>
+        
     </ul>
-</div>
+    
